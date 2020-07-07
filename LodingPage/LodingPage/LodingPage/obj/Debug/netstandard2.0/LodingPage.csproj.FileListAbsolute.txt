@@ -1,0 +1,13 @@
+D:\ProjectPath\Xamarin\LodingPage\LodingPage\LodingPage\LodingPage\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ProjectPath\Xamarin\LodingPage\LodingPage\LodingPage\LodingPage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ProjectPath\Xamarin\LodingPage\LodingPage\LodingPage\LodingPage\obj\Debug\netstandard2.0\LodingPage.AssemblyInfoInputs.cache
+D:\ProjectPath\Xamarin\LodingPage\LodingPage\LodingPage\LodingPage\obj\Debug\netstandard2.0\LodingPage.AssemblyInfo.cs
+D:\ProjectPath\Xamarin\LodingPage\LodingPage\LodingPage\LodingPage\obj\Debug\netstandard2.0\LodingPage.csproj.CoreCompileInputs.cache
+D:\ProjectPath\Xamarin\LodingPage\LodingPage\LodingPage\LodingPage\bin\Debug\netstandard2.0\LodingPage.deps.json
+D:\ProjectPath\Xamarin\LodingPage\LodingPage\LodingPage\LodingPage\bin\Debug\netstandard2.0\LodingPage.dll
+D:\ProjectPath\Xamarin\LodingPage\LodingPage\LodingPage\LodingPage\bin\Debug\netstandard2.0\ref\LodingPage.dll
+D:\ProjectPath\Xamarin\LodingPage\LodingPage\LodingPage\LodingPage\bin\Debug\netstandard2.0\LodingPage.pdb
+D:\ProjectPath\Xamarin\LodingPage\LodingPage\LodingPage\LodingPage\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ProjectPath\Xamarin\LodingPage\LodingPage\LodingPage\LodingPage\obj\Debug\netstandard2.0\LodingPage.dll
+D:\ProjectPath\Xamarin\LodingPage\LodingPage\LodingPage\LodingPage\obj\Debug\netstandard2.0\ref\LodingPage.dll
+D:\ProjectPath\Xamarin\LodingPage\LodingPage\LodingPage\LodingPage\obj\Debug\netstandard2.0\LodingPage.pdb
