@@ -33,9 +33,9 @@ namespace LodingPage
         {
             base.OnAppearing();
 
-            await splashImage.ScaleTo(1, 2000);
-            await splashImage.ScaleTo(0.9, 1500, Easing.Linear);
-            await splashImage.ScaleTo(150, 1200, Easing.Linear);
+            await splashImage.ScaleTo(1, 1000);
+            await splashImage.ScaleTo(0.7, 1200, Easing.Linear);
+            await splashImage.ScaleTo(150, 900, Easing.Linear);
             Application.Current.MainPage = new NavigationPage(new Page1());
         }
     }

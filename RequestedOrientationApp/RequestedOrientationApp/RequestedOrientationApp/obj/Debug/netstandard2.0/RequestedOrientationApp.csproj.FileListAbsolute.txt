@@ -1,0 +1,13 @@
+D:\k4keye\myApp\RequestedOrientationApp\RequestedOrientationApp\RequestedOrientationApp\bin\Debug\netstandard2.0\RequestedOrientationApp.deps.json
+D:\k4keye\myApp\RequestedOrientationApp\RequestedOrientationApp\RequestedOrientationApp\bin\Debug\netstandard2.0\RequestedOrientationApp.dll
+D:\k4keye\myApp\RequestedOrientationApp\RequestedOrientationApp\RequestedOrientationApp\bin\Debug\netstandard2.0\ref\RequestedOrientationApp.dll
+D:\k4keye\myApp\RequestedOrientationApp\RequestedOrientationApp\RequestedOrientationApp\bin\Debug\netstandard2.0\RequestedOrientationApp.pdb
+D:\k4keye\myApp\RequestedOrientationApp\RequestedOrientationApp\RequestedOrientationApp\obj\Debug\netstandard2.0\RequestedOrientationApp.csprojAssemblyReference.cache
+D:\k4keye\myApp\RequestedOrientationApp\RequestedOrientationApp\RequestedOrientationApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\k4keye\myApp\RequestedOrientationApp\RequestedOrientationApp\RequestedOrientationApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\k4keye\myApp\RequestedOrientationApp\RequestedOrientationApp\RequestedOrientationApp\obj\Debug\netstandard2.0\RequestedOrientationApp.AssemblyInfoInputs.cache
+D:\k4keye\myApp\RequestedOrientationApp\RequestedOrientationApp\RequestedOrientationApp\obj\Debug\netstandard2.0\RequestedOrientationApp.AssemblyInfo.cs
+D:\k4keye\myApp\RequestedOrientationApp\RequestedOrientationApp\RequestedOrientationApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\k4keye\myApp\RequestedOrientationApp\RequestedOrientationApp\RequestedOrientationApp\obj\Debug\netstandard2.0\RequestedOrientationApp.dll
+D:\k4keye\myApp\RequestedOrientationApp\RequestedOrientationApp\RequestedOrientationApp\obj\Debug\netstandard2.0\ref\RequestedOrientationApp.dll
+D:\k4keye\myApp\RequestedOrientationApp\RequestedOrientationApp\RequestedOrientationApp\obj\Debug\netstandard2.0\RequestedOrientationApp.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage.iOS\\LodingPage.iOS.csproj": {}
+    "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage.iOS\\LodingPage.iOS.csproj": {}
   },
   "projects": {
-    "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage.iOS\\LodingPage.iOS.csproj": {
+    "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage.iOS\\LodingPage.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage.iOS\\LodingPage.iOS.csproj",
+        "projectUniqueName": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage.iOS\\LodingPage.iOS.csproj",
         "projectName": "LodingPage.iOS",
-        "projectPath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage.iOS\\LodingPage.iOS.csproj",
+        "projectPath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage.iOS\\LodingPage.iOS.csproj",
         "packagesPath": "C:\\Users\\vps32\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage.iOS\\obj\\",
+        "outputPath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage\\LodingPage.csproj": {
-                "projectPath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage\\LodingPage.csproj"
+              "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage.csproj": {
+                "projectPath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage\\LodingPage.csproj": {
+    "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage\\LodingPage.csproj",
+        "projectUniqueName": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage.csproj",
         "projectName": "LodingPage",
-        "projectPath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage\\LodingPage.csproj",
+        "projectPath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage.csproj",
         "packagesPath": "C:\\Users\\vps32\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage\\obj\\",
+        "outputPath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

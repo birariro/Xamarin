@@ -1975,11 +1975,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage.Android\\LodingPage.Android.csproj",
+      "projectUniqueName": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage.Android\\LodingPage.Android.csproj",
       "projectName": "LodingPage.Android",
-      "projectPath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage.Android\\LodingPage.Android.csproj",
+      "projectPath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage.Android\\LodingPage.Android.csproj",
       "packagesPath": "C:\\Users\\vps32\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage.Android\\obj\\",
+      "outputPath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2000,8 +2000,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage\\LodingPage.csproj": {
-              "projectPath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage\\LodingPage.csproj"
+            "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage.csproj": {
+              "projectPath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage.csproj"
             }
           }
         }

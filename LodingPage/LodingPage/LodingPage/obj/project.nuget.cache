@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "03QxglEZMNKlMCDgKGtDt3UhDUpaY3rUAWX+gi6GU/S32FF71yq1ASERKPR1xQVIMTB/7xq4apsVUzN6On2cXg==",
+  "dgSpecHash": "MQRRP+ZB6ohp4RB99NH7xuNE4a0/7k9zJgHFPjhpLP0o35E6mGpKBqebmwq0OkP0JMrb82lSIRGV7CkCMzISZg==",
   "success": true,
-  "projectFilePath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage\\LodingPage.csproj",
+  "projectFilePath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vps32\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\vps32\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

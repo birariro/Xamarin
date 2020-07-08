@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gEpHHiSLshm8nLwIAYF1pbyVMqdaranZ4UqUtgrVvR/NnxOvcxXaAUHHOLPgnmAHZZ18c92BYcHRwNL5uej6kg==",
+  "dgSpecHash": "zOWz+FYVT7za/X7bmw8LZ7Shh18cT0E5dkuMQewWs0l9/gawVUhqbzX9cLpjISkG0aIHASnwCWlKw7RJRPd1dA==",
   "success": true,
-  "projectFilePath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage.Android\\LodingPage.Android.csproj",
+  "projectFilePath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage.Android\\LodingPage.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vps32\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",

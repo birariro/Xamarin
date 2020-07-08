@@ -610,11 +610,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage\\LodingPage.csproj",
+      "projectUniqueName": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage.csproj",
       "projectName": "LodingPage",
-      "projectPath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage\\LodingPage.csproj",
+      "projectPath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage.csproj",
       "packagesPath": "C:\\Users\\vps32\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\LodingPage\\obj\\",
+      "outputPath": "D:\\ProjectPath\\Xamarin\\LodingPage\\LodingPage\\LodingPage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
