@@ -1,0 +1,14 @@
+C:\Users\qoom\Desktop\k4keye\Test\FCM_simple\FCM_simple\FCM_simple\bin\Release\netstandard2.1\FCM_simple.deps.json
+C:\Users\qoom\Desktop\k4keye\Test\FCM_simple\FCM_simple\FCM_simple\bin\Release\netstandard2.1\FCM_simple.dll
+C:\Users\qoom\Desktop\k4keye\Test\FCM_simple\FCM_simple\FCM_simple\bin\Release\netstandard2.1\ref\FCM_simple.dll
+C:\Users\qoom\Desktop\k4keye\Test\FCM_simple\FCM_simple\FCM_simple\bin\Release\netstandard2.1\FCM_simple.pdb
+C:\Users\qoom\Desktop\k4keye\Test\FCM_simple\FCM_simple\FCM_simple\obj\Release\netstandard2.1\FCM_simple.csprojAssemblyReference.cache
+C:\Users\qoom\Desktop\k4keye\Test\FCM_simple\FCM_simple\FCM_simple\obj\Release\netstandard2.1\App.xaml.g.cs
+C:\Users\qoom\Desktop\k4keye\Test\FCM_simple\FCM_simple\FCM_simple\obj\Release\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\qoom\Desktop\k4keye\Test\FCM_simple\FCM_simple\FCM_simple\obj\Release\netstandard2.1\FCM_simple.AssemblyInfoInputs.cache
+C:\Users\qoom\Desktop\k4keye\Test\FCM_simple\FCM_simple\FCM_simple\obj\Release\netstandard2.1\FCM_simple.AssemblyInfo.cs
+C:\Users\qoom\Desktop\k4keye\Test\FCM_simple\FCM_simple\FCM_simple\obj\Release\netstandard2.1\FCM_simple.csproj.CoreCompileInputs.cache
+C:\Users\qoom\Desktop\k4keye\Test\FCM_simple\FCM_simple\FCM_simple\obj\Release\netstandard2.1\XamlC.stamp
+C:\Users\qoom\Desktop\k4keye\Test\FCM_simple\FCM_simple\FCM_simple\obj\Release\netstandard2.1\FCM_simple.dll
+C:\Users\qoom\Desktop\k4keye\Test\FCM_simple\FCM_simple\FCM_simple\obj\Release\netstandard2.1\ref\FCM_simple.dll
+C:\Users\qoom\Desktop\k4keye\Test\FCM_simple\FCM_simple\FCM_simple\obj\Release\netstandard2.1\FCM_simple.pdb
