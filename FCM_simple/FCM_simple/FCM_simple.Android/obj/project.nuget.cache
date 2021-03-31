@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rYQ4ajHI7j4hEF1sb26xnuI+9NGIWf9LS6Oc9QFZOtPT8NmBsdPVSuJhgGVu892Nu/cdLew8yv3hC+32Yo4PTw==",
+  "dgSpecHash": "zDNXNHCFjuLfeBPwY8EYgJBo5oOImNw0NqoVAPUjczJgWeFRwaSjgWjurI68PiXHlaNRx8MsKFke1LNeiDQMEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\qoom\\Desktop\\k4keye\\Test\\FCM_simple\\FCM_simple\\FCM_simple.Android\\FCM_simple.Android.csproj",
+  "projectFilePath": "C:\\Users\\qoom\\Desktop\\k4keye\\me\\Xamarin\\FCM_simple\\FCM_simple\\FCM_simple.Android\\FCM_simple.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\qoom\\.nuget\\packages\\plugin.localnotification\\5.2.0\\plugin.localnotification.5.2.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",

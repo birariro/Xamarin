@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CVcyvXGsLdndo4LgDBYSm4ZdoGJsPdy7ZPNAKnXiaROwBL2BchNm6jmTK+OrMd2XpiZ+Oe/qdUd+mAIh8/OLxA==",
+  "dgSpecHash": "/UuXu6gijcpyQk39/dnniTswlelvSiMS+itdcOSzBtzQdCBWgC2xoZC3nynfvYrNGevsdT7lB9FFzv7AW07a9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\qoom\\Desktop\\k4keye\\Test\\FCM_simple\\FCM_simple\\FCM_simple\\FCM_simple.csproj",
+  "projectFilePath": "C:\\Users\\qoom\\Desktop\\k4keye\\me\\Xamarin\\FCM_simple\\FCM_simple\\FCM_simple\\FCM_simple.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\qoom\\.nuget\\packages\\plugin.localnotification\\5.2.0\\plugin.localnotification.5.2.0.nupkg.sha512",
     "C:\\Users\\qoom\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

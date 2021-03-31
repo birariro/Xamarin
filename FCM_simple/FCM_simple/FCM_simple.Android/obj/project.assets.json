@@ -4605,11 +4605,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\qoom\\Desktop\\k4keye\\Test\\FCM_simple\\FCM_simple\\FCM_simple.Android\\FCM_simple.Android.csproj",
+      "projectUniqueName": "C:\\Users\\qoom\\Desktop\\k4keye\\me\\Xamarin\\FCM_simple\\FCM_simple\\FCM_simple.Android\\FCM_simple.Android.csproj",
       "projectName": "FCM_simple.Android",
-      "projectPath": "C:\\Users\\qoom\\Desktop\\k4keye\\Test\\FCM_simple\\FCM_simple\\FCM_simple.Android\\FCM_simple.Android.csproj",
+      "projectPath": "C:\\Users\\qoom\\Desktop\\k4keye\\me\\Xamarin\\FCM_simple\\FCM_simple\\FCM_simple.Android\\FCM_simple.Android.csproj",
       "packagesPath": "C:\\Users\\qoom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\qoom\\Desktop\\k4keye\\Test\\FCM_simple\\FCM_simple\\FCM_simple.Android\\obj\\",
+      "outputPath": "C:\\Users\\qoom\\Desktop\\k4keye\\me\\Xamarin\\FCM_simple\\FCM_simple\\FCM_simple.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -4630,8 +4630,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\qoom\\Desktop\\k4keye\\Test\\FCM_simple\\FCM_simple\\FCM_simple\\FCM_simple.csproj": {
-              "projectPath": "C:\\Users\\qoom\\Desktop\\k4keye\\Test\\FCM_simple\\FCM_simple\\FCM_simple\\FCM_simple.csproj"
+            "C:\\Users\\qoom\\Desktop\\k4keye\\me\\Xamarin\\FCM_simple\\FCM_simple\\FCM_simple\\FCM_simple.csproj": {
+              "projectPath": "C:\\Users\\qoom\\Desktop\\k4keye\\me\\Xamarin\\FCM_simple\\FCM_simple\\FCM_simple\\FCM_simple.csproj"
             }
           }
         }
